@@ -3,13 +3,13 @@ layout: post
 title: A Survey of Java Based eCommerce Software
 ---
 
-OfBiz
----------
-* https://ofbiz.apache.org/
-* authorized.net support: https://cwiki.apache.org/confluence/display/OFBENDUSER/Apache+OFBiz+Business+Setup+Guide
-* the code: https://fisheye6.atlassian.com/browse/ofbiz
-* issue tracker: https://issues.apache.org/jira/browse/OFBIZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:summary-panel
-* quickstart: https://ofbiz.apache.org/download.html
+It's 2014. The online shop software problem is solved, right? What if I want a java stack, is it solved? What about integration with [Authorized.net](https://www.authorize.net/)? It should be, of course, open source software.
+
+While trying to answer thise questions, I took a look at the java based ecommerce software ecosystem. The old player [Apache OFBiz](https://ofbiz.apache.org/) and the new kid on the block [BroadLeaf](http://www.broadleafcommerce.com/) stood out.
+
+The Apache Open for Business Project
+-------------------------------------
+OFBiz is an ecosystem on its own. It has been around since 2007 and today if offers anything you'd want from a business management software [https://en.wikipedia.org/wiki/Apache_OFBiz][1]. It has authorized.net support [https://cwiki.apache.org/confluence/display/OFBENDUSER/Apache+OFBiz+Business+Setup+Guide][2]. The code is available [https://fisheye6.atlassian.com/browse/ofbiz][3]. The issue tracker says OFBiz is an active project [https://issues.apache.org/jira/browse/OFBIZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:summary-panel][3]. The quick start [quickstart: https://ofbiz.apache.org/download.html][4].
 
 BroadLeaf
 -----------
