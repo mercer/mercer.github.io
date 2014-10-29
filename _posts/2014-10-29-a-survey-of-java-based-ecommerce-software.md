@@ -9,7 +9,7 @@ While trying to answer thise questions, I took a look at the java based ecommerc
 
 The Apache Open for Business Project
 -------------------------------------
-OFBiz is an ecosystem on its own. It has been around since 2007 and today if offers anything you'd want from a business management software [https://en.wikipedia.org/wiki/Apache_OFBiz][1]. It has authorized.net support [https://cwiki.apache.org/confluence/display/OFBENDUSER/Apache+OFBiz+Business+Setup+Guide][2]. The code is available [https://fisheye6.atlassian.com/browse/ofbiz][3]. The issue tracker says OFBiz is an active project [https://issues.apache.org/jira/browse/OFBIZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:summary-panel][3]. The quick start [quickstart: https://ofbiz.apache.org/download.html][4].
+OFBiz is an ecosystem on its own. It has been around since 2007 and today if offers anything you'd want from a [business management software](https://en.wikipedia.org/wiki/Apache_OFBiz). It has [authorized.net support](https://cwiki.apache.org/confluence/display/OFBENDUSER/Apache+OFBiz+Business+Setup+Guide). The [code](https://fisheye6.atlassian.com/browse/ofbiz) is available. The [issue tracker](https://issues.apache.org/jira/browse/OFBIZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:summary-panel) says OFBiz is an active project. The [quick start](https://ofbiz.apache.org/download.html).
 
 BroadLeaf
 -----------
