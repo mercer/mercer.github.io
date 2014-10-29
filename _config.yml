@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Emilian's Brain Dump
+title:            The Brain Dump
 tagline:          'The Blog Is Smarter Than The Brain'
 description:      'A random collection of miscellanea'
 url:              http://mercer.github.io
