@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Survey of Java Based eCommerce Software
+title: A Java Based eCommerce Survey
 ---
 
 It's 2014. The online shop software problem is solved, right? What if I want a java stack, is it solved? What about integration with [Authorized.net](https://www.authorize.net/)? It should be, of course, open source software.
