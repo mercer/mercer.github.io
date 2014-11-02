@@ -20,9 +20,9 @@ paginate:         5
 
 defaults:
   -
-	scope:
+    scope:
       path: ""
       type: "posts"
-  	values:
+    values:
       layout: "post"
       comments: true
