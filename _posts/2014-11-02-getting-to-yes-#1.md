@@ -1,1 +1,5 @@
-![Yes Racoon](http://aristotle.com/files/2013/07/Yes_Cheezburger_Racoon-300x191.png "Simply explained")
+![Yes Racoon](http://aristotle.com/files/2013/07/Yes_Cheezburger_Racoon-300x191.png "A racoon exclaiming YES!")
+![](http://vinh.co/wp-content/uploads/2014/01/yes-ladder-e1388790177240.png)
+![Getting To Yes concepts diagram](http://sachachua.com/blog/wp-content/uploads/2012/03/book-getting-to-yes.png "A diagram of Getting To Yes concepts")
+![](http://bryantanner.files.wordpress.com/2012/05/getting-past-yes.png)
+![](http://www.biggerplate.com/mapImages/xl/62b09b42-0b05-4293-890a-412ebc855179.png)
