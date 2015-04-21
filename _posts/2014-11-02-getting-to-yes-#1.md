@@ -1,5 +1,0 @@
-![](http://aristotle.com/files/2013/07/Yes_Cheezburger_Racoon-300x191.png)
-![](http://vinh.co/wp-content/uploads/2014/01/yes-ladder-e1388790177240.png)
-![](http://www.biggerplate.com/mapImages/xl/62b09b42-0b05-4293-890a-412ebc855179.png)
-![drawing](http://sachachua.com/blog/wp-content/uploads/2012/03/book-getting-to-yes.png)
-![drawing](http://bryantanner.files.wordpress.com/2012/05/getting-past-yes.png)
