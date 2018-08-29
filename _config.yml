@@ -6,9 +6,8 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            The Brain Dump
+title:            Deadlock
 tagline:          'The Blog Is Smarter Than The Brain'
-description:      'A random collection of miscellanea'
 url:              http://mercer.github.io
 timezone:         Europe/Bucharest
 
