@@ -7,17 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            Deadlock
+tagline:          'The Blog Is Smarter Than The Brain'
 url:              http://mercer.github.io
-
+timezone:         Europe/Bucharest
 author:
   name:           'Emilian Losneanu'
   url:            https://twitter.com/losneanu
-
+paginate:         5
 defaults:
   -
     scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true
